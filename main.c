@@ -1,4 +1,3 @@
-// Ali Haktan SIGIN - 21070001004
 #include <stdio.h>
 #include <stdlib.h>
 
