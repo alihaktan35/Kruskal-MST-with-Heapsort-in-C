@@ -1,4 +1,4 @@
-# Kruskal MST with Heapsort in C
+# Kruskal's MST with Heapsort in C
 
 Algorithm Analysis & Design class assignment.
 
