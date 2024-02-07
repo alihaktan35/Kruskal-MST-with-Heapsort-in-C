@@ -1,4 +1,4 @@
-# Valid Parenthesis Checker
+# Kruskal MST with Heapsort in C
 
 Algorithm Analysis & Design class assignment.
 
